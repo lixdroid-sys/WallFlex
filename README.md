@@ -4,7 +4,9 @@
 A place where I keep and organize the wallpapers I like to use across my systems.
 
 ---
-<img src= >
+## Preview
+
+![WallFlex Preview](https://github.com/lixdroid-sys/WallFlex/blob/main/preview/wallflex.gif)
 
 ## 📥 Installation
 
