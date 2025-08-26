@@ -27,7 +27,8 @@ git pull
 ## 📁 Repo Layout: 
 ```sh
 
-WallFlex/    
+WallFlex/   
+├── preview           
 ├── wallpaper           
 ├── README.md               
 └── LICENSE                 
