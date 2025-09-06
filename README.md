@@ -36,15 +36,15 @@ WallFlex/
 ## 🤝 Contribution
 Got a cool wallpaper to share?💡
 
-- Fork the repo
+#### Fork the repo
 
-- Add your wallpapers
+#### Add your wallpapers
 
-- Open a pull request 🎉
+#### Open a pull request 🎉
 
 
 
 ## 📜 License
 This project is licensed under the CC0-1.0  License.
 
-## ✨ Enjoy your new desktop look with WallFlex!
+### ✨ Enjoy your new desktop look with WallFlex!
