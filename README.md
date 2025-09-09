@@ -36,11 +36,11 @@ WallFlex/
 ## 🤝 Contribution
 Got a cool wallpaper to share?💡
 
-#### Fork the repo
+- #### Fork the repo
 
-#### Add your wallpapers
+- #### Add your wallpapers
 
-#### Open a pull request 🎉
+- #### Open a pull request 🎉
 
 
 
