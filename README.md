@@ -31,7 +31,8 @@ git pull
 
 WallFlex/   
 ├── preview           
-├── wallpaper           
+├── wallpaper
+├── .gitattributes        
 ├── README.md               
 └── LICENSE                 
 ```
