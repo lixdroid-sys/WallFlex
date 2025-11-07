@@ -33,8 +33,8 @@ WallFlex/
 ├── preview           
 ├── wallpaper
 ├── .gitattributes        
-├── README.md               
-└── LICENSE                 
+├── LICENSE           
+└── README.md                
 ```
 ## 🤝 Contribution
 Got a cool wallpaper to share?💡
